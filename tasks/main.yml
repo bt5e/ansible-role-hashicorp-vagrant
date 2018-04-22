@@ -1,0 +1,5 @@
+---
+- name: Install vagrant
+  yum:
+    name: "{{ vagrant_download_url }}"
+  become: yes
