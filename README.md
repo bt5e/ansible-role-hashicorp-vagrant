@@ -1,6 +1,8 @@
 Ansible Role - HashiCorp Vagrant - CentOS
 =========================================
 
+[![Build Status](https://travis-ci.org/bt5e/ansible-role-hashicorp-vagrant.svg?branch=master)](https://travis-ci.org/bt5e/ansible-role-hashicorp-vagrant)
+
 HashiCorp Vagrant from: https://www.vagrantup.com/downloads.html
 
 Requirements
