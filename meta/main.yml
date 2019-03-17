@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: hashicorp_vagrant
   author: Ben Tse
   description: HashiCorp Vagrant
   license: MIT
