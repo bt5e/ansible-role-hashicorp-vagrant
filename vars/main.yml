@@ -1,4 +1,4 @@
 ---
-vagrant_version: 2.2.3
+vagrant_version: 2.2.15
 vagrant_dist_file: "vagrant_{{ vagrant_version }}_x86_64.rpm"
 vagrant_download_url: "https://releases.hashicorp.com/vagrant/{{ vagrant_version }}/{{ vagrant_dist_file }}"
